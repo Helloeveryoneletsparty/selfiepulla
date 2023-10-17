@@ -1,5 +1,5 @@
 	%line encoding 
-clearvars;
+ clearvars;
 clc;
 5.	L = 64; %number of digital samples per data bit
 6.	Fs = 10*L; %Sampling frequency
